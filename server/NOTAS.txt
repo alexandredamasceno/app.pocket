@@ -2,3 +2,4 @@
     Node não entende codigo typescript
     @tsx biblioteca permite executar meu projeto sem precisar converter antes para javascript. Converte typescript em javascript e executá-lo
     - Fastify é um framework web. É tipo o Express
+    O Biome é para formatação do código
